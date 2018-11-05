@@ -1,0 +1,28 @@
+{
+  "window.zoomLevel": 1,
+  "workbench.colorTheme": "Blackboard",
+  "editor.formatOnType": true,
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "eslint.enable": true,
+  "eslint.autoFixOnSave": true,
+  "editor.renderWhitespace": "all",
+  "editor.minimap.showSlider": "always",
+  "editor.minimap.renderCharacters": false,
+  "editor.wordWrap": "on",
+  "editor.tabCompletion": true,
+  "editor.snippetSuggestions": "top",
+  "files.autoGuessEncoding": true,
+  "workbench.iconTheme": "vscode-icons",
+  "powermode.enabled": true,
+  "powermode.presets": "fireworks",
+  "powermode.enableShake": false,
+  "extensions.autoUpdate": true,
+  "terminal.explorerKind": "external",
+  "emmet.variables": {
+    "lang": "ja"
+  },
+  "emmet.triggerExpansionOnTab": true,
+  "php-cs-fixer.executablePath": "${extensionPath}\\php-cs-fixer.phar",
+  "php-cs-fixer.lastDownload": 1541391951198
+}
