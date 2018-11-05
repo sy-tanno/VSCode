@@ -1,0 +1,2 @@
+# VSCode
+VSCodeについての諸々
