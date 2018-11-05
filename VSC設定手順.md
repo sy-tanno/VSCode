@@ -21,3 +21,7 @@ C:\Users\【ユーザー名】\ 以下に移動する
 install_extensions.bat を実行
 
 ## 5.VSCode を再起動して設定完了
+
+# 拡張機能の一覧出力方法（管理側）
+
+`code --list-extensions > extensions`
