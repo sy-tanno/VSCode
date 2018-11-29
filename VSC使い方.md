@@ -24,3 +24,20 @@ SublimeText の Inc-Dec-Value と同じです。
 
 https://www.karelie.net/vscode-sftp/  
 使ってみる
+
+## 新規作成ではなく、修正案件について
+
+設定ファイルの下記が有効になっていると、フォーマッターが勝手に起動して、Git に変更履歴として反映されてしまうので、修正案件は false にすることを推奨します。  
+ワークスペースの設定で上書きすれば、共通の設定ファイルは変更されないのでこちらを変更するようにしましょう。
+
+`"editor.formatOnType": true,`  
+`"editor.formatOnPaste": true,`  
+`"editor.formatOnSave": true`,
+
+また、合わせて拡張機能のフォーマッター系を無効にした方が良さそうです。  
+どれが悪さをしているか検証足りないので、取り急ぎ怪しいやつだけピックアップ。
+
+`JS-CSS-HTML Formatter`← たぶんこれだけ  
+`Prettier - Code formatter`  
+`CSScomb`  
+`EditorConfig for VS Code`
