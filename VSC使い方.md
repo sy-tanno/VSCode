@@ -41,3 +41,7 @@ https://www.karelie.net/vscode-sftp/
 `Prettier - Code formatter`  
 `CSScomb`  
 `EditorConfig for VS Code`
+
+## Visual Studio Live Share
+
+https://blog.noraneko.work/2018-05-26-001/

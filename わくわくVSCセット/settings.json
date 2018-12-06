@@ -24,5 +24,12 @@
   },
   "emmet.triggerExpansionOnTab": true,
   "php-cs-fixer.executablePath": "${extensionPath}\\php-cs-fixer.phar",
-  "php-cs-fixer.lastDownload": 1541391951198
+  "php-cs-fixer.lastDownload": 1544062465179,
+  "editor.cursorBlinking": "solid",
+  "git.enableSmartCommit": true,
+  "git.autofetch": true,
+  "files.associations": {
+    "*.tpl": "php"
+  },
+  "diffEditor.ignoreTrimWhitespace": false
 }

@@ -1,5 +1,6 @@
 abierbaum.vscode-file-peek
 abusaidm.html-snippets
+akamud.vscode-caniuse
 alefragnani.project-manager
 anseki.vscode-color
 bradgashler.htmltagwrap
@@ -31,6 +32,7 @@ ionutvmi.path-autocomplete
 joelday.docthis
 jsynowiec.vscode-insertdatestring
 junstyle.php-cs-fixer
+liximomo.sftp
 lonefy.vscode-JS-CSS-HTML-formatter
 mechatroner.rainbow-csv
 mitchdenny.ecdc
@@ -45,6 +47,7 @@ ms-vsliveshare.vsliveshare
 msjsdiag.debugger-for-chrome
 naumovs.color-highlight
 neilbrayfield.php-docblocker
+nmsmith89.incrementor
 oderwat.indent-rainbow
 PKief.material-icon-theme
 pranaygp.vscode-css-peek
@@ -55,6 +58,7 @@ shardulm94.trailing-spaces
 shinnn.stylelint
 shuworks.vscode-table-formatter
 SirTobi.code-clip-ring
+sporiley.css-auto-prefix
 streetsidesoftware.code-spell-checker
 techer.open-in-browser
 Tyriar.sort-lines
